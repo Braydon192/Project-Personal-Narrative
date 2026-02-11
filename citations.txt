@@ -1,0 +1,6 @@
+What I prompted:
+I asked Chat GPT if the code I wrote met the requirments.
+----------------------------------------------------------------------
+What response I recieved:
+The code meets the requirments are met, but if your teacher expects audio, that is missing.
+----------------------------------------------------------------------
